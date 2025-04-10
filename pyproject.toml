@@ -1,0 +1,16 @@
+[project]
+name = "smarttutordl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.1",
+    "opentsne>=1.0.2",
+    "pandas>=2.2.3",
+    "plotly>=6.0.1",
+    "scikit-learn>=1.6.1",
+    "tensorflow[and-cuda]>=2.19.0",
+    "umap-learn>=0.5.7",
+]
