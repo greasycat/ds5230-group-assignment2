@@ -1,0 +1,11 @@
+Cluster,Paper1,Paper2
+0,face recognition using eigenfaces,learning hierarchical features for scene labeling
+1,learning representations by back propagating errors,highly accurate protein structure prediction with alphafold
+2,context dependent pre trained deep neural networks for large vocabulary speech recognition,wavlm large scale self supervised pre training for full stack speech processing
+3,tensorf tensorial radiance fields,3d gaussian splatting for real time radiance field rendering
+4,nearest neighbor pattern classification,no free lunch theorems for optimization
+5,hybrid computing using a neural network with dynamic external memory,photo real talking head with deep bidirectional lstm
+6,imagenet classification with deep convolutional neural networks,visual prompt tuning
+7,mathematical discoveries from program search with large language models funsearch,zero memory optimizations toward training trillion parameter models
+8,human level control through deep reinforcement learning,outracing champion gran turismo drivers with deep reinforcement learning sophy
+9,neural word embedding as implicit matrix factorization,self organized formation of topologically correct feature maps
